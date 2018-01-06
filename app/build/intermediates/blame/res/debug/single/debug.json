@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_main_touchpad.xml.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\layout-land\\main_touchpad.xml"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_tank.png.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_tank.png"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_list.xml.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_buttons.png.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_buttons.png"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_down_arrow.png.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\drawable-hdpi\\down_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_tank3motor.png.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_tank3motor.png"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right_arrow.png.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\drawable-hdpi\\right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_tank.xml.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\layout\\main_tank.xml"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_left_arrow.png.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\drawable-hdpi\\left_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_settings.xml.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_options_menu.xml.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\menu\\options_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_main_tank.xml.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\layout-land\\main_tank.xml"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_touchpad.xml.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\layout\\main_touchpad.xml"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up_arrow.png.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\drawable-hdpi\\up_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_touchpad.png.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_touchpad.png"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_name.xml.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_main.xml.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\layout-land\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_tank3motor.xml.flat",
+        "source": "C:\\Users\\HY\\AndroidStudioProjects\\nxt-remote-control-master\\app\\src\\main\\res\\layout\\main_tank3motor.xml"
+    }
+]
