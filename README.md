@@ -11,7 +11,7 @@ I did change it appropriately when three motor handle
 
 
 
-This project is a partial modification of open source at http://code.google.com/p/nxt-remote-control/.
+This project is a partial modification of open source at https://github.com/jfedor2/nxt-remote-control
 
 I wanted a more comfortable operation with the 3 motor control, so I modified the 2 motor control layout slightly.
 
